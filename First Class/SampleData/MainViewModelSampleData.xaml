@@ -1,0 +1,18 @@
+﻿<vm:MainViewModel
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:vm="clr-namespace:First_Class.ViewModels"
+    IdCounter="5"
+    IsDataLoaded="True">
+    
+
+    <vm:MainViewModel.Items>
+        <vm:ItemViewModel ID="0" CourseName="TestClass1" CourseCode="TST 101"/>
+        <vm:ItemViewModel ID="1" CourseName="TestClass2" CourseCode="TST 102"/>
+        <vm:ItemViewModel ID="2" CourseName="TestClass3" CourseCode="TST 103"/>
+        <vm:ItemViewModel ID="3" CourseName="TestClass4" CourseCode="TST 104"/>
+        <vm:ItemViewModel ID="4" CourseName="TestClass5" CourseCode="TST 105"/>
+        <vm:ItemViewModel ID="5" CourseName="TestClass6" CourseCode="TST 106"/>
+    </vm:MainViewModel.Items>
+
+</vm:MainViewModel>

@@ -1,0 +1,20 @@
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\Bin\Debug\First Class.dll
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\Bin\Debug\First Class.pdb
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\Bin\Debug\AppManifest.xaml
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\Bin\Debug\First_Class_Debug_AnyCPU.xap
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\obj\Debug\App.g.cs
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\obj\Debug\DetailsPage.g.cs
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\obj\Debug\MainPage.g.cs
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\obj\Debug\First Class.g.resources
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\obj\Debug\First_Class.Resources.AppResources.resources
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\obj\Debug\First Class.csproj.GenerateResource.Cache
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\obj\Debug\First Class.dll
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\obj\Debug\First Class.pdb
+c:\users\joey\documents\visual studio 2012\Projects\First Class\First Class\obj\Debug\XapCacheFile.xml
